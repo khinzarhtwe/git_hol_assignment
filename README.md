@@ -35,7 +35,7 @@ Here are some basic Git commands you can practice with in this repository:
 ```sh
 git status
 ```
-**Check feature one branch:**
+**Check feature other branch:**
 ```sh
 git checkout feature/new_feature
 ```
