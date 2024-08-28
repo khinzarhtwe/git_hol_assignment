@@ -41,7 +41,6 @@ git status
 ```sh
 git checkout feature/new_feature
 ```
--**Checkout
 
 **Reporting Issues**
 
