@@ -1,6 +1,3 @@
-DevKTOps WE Class
-
-Git HOL-Assignment
 
 # Git Command Testing Repo
 ### Description
